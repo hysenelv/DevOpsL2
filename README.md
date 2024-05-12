@@ -2,5 +2,5 @@
 Lernjournal "Versionskontrolle"
 
 add my name: Elvis Hyseni
-Second name: Loren Hyseni
+add my name: Loren Hyseni
 Wirtschaftsinforamtik
